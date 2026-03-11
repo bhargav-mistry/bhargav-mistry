@@ -204,9 +204,27 @@ const dracula = {
 
 ## Trophies from the Crypt
 
-<div align="center">
+<div align="left">
+<p align="left">
+  <a href="https://github.com/bhargav-mistry">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=bhargav-mistry&no-bg=true&row=2&column=8&margin-w=20&margin-h=20&theme=dracula">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=bhargav-mistry&no-bg=true&row=2&column=8&margin-w=20&margin-h=20&theme=dracula">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=bhargav-mistry&no-bg=true&no-frame=true&row=2&column=8&margin-w=20&margin-h=20&theme=dracula">
+    </picture>
+  </a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhargav-mistry&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- <p align="Left">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/bhargav-mistry/achievements?format=svg&limit=12"
+      width="400"
+      style="filter: hue-rotate(270deg) saturate(1.5) brightness(0.9);"
+    />
+  </a>
+</p> -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=bhargav-mistry&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 </div>
 
