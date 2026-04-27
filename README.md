@@ -138,7 +138,7 @@ const dracula = {
 
 <div align="left" width="100%">
   <a href="https://github.com/bhargav-mistry/Fig_MCP">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargav-mistry&repo=Fig_MCP&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&description_lines_count=3" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargav-mistry&repo=FigSafe&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&description_lines_count=3" />
   </a>
   <a href="https://github.com/bhargav-mistry/Obstacle-Detection">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargav-mistry&repo=Obstacle-Detection&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&description_lines_count=3" />
